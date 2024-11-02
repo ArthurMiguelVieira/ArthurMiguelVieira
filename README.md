@@ -1,8 +1,8 @@
-- 👋 Olá, sou @ArthurMiguelVieira
-- 👀 Estou interessado em me tornar um desenvolvedor Java back end.
-- 🌱 Atualmente estou aprendendo Java e conceitos de desenvolvimento back end.
-- 💞️ Estou buscando colaborar em projetos para ganhar experiência prática.
-- 📫 Você pode me encontrar através do meu email arthur.miguel.dev@gmail.com
+- Olá, sou @ArthurMiguelVieira
+- Estou interessado em me tornar um desenvolvedor Java back end.
+- Atualmente estou aprendendo Java e conceitos de desenvolvimento back end.
+- Estou buscando colaborar em projetos para ganhar experiência prática.
+- Você pode me encontrar através do meu email arthur.miguel.dev@gmail.com
 
 
 <!---
