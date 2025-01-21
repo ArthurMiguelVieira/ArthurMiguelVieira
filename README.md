@@ -1,4 +1,4 @@
-# Olá, sou @ArthurMiguelVieira  
+# Olá, sou Arthur Miguel
 
 - Estou interessado em me tornar um analista de QA.  
 - Já tenho conhecimentos em **Playwright**, **TypeScript**, **Java**, **Programação Orientada a Objetos (POO)**, além de metodologias ágeis como **Scrum** e **Kanban**.  
